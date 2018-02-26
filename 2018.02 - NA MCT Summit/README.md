@@ -4,5 +4,5 @@
 
 
 Presentations:
-*How to Prep for Azure Courses and Workshops
-*Supercharge Your Applications with the Microsoft Graph API
+* How to Prep for Azure Courses and Workshops
+* Supercharge Your Applications with the Microsoft Graph API
