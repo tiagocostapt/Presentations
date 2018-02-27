@@ -4,5 +4,5 @@
 
 
 Presentations:
-* How to Prep for Azure Courses and Workshops
+* [How to Prep for Azure Courses and Workshops](Presentations/2018.02 - NA MCT Summit/NAMCTSummit 2018 - How to Prep for Azure Courses and Workshops.pdf)
 * Supercharge Your Applications with the Microsoft Graph API
